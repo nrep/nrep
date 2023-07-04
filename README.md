@@ -17,4 +17,9 @@ Here are some ideas to get you started:
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nrep&count_private=true) -->
 
+Detail-oriented, organized, and meticulous employee. Works at a fast pace to meet tight deadlines.
+Enthusiastic team player ready to contribute to company success.
+Driven Software Developer with 9 years of experience in full lifecycle development. Motivated with keen
+analytical, problem-solving, and task-management abilities.
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=nrep)](https://git.io/streak-stats)
