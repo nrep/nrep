@@ -1,26 +1,29 @@
-### Hi there 👋
+### Hi there 👋, call me Elvis Peace NDAHAYO RUGERO
+
+I am a detail-oriented, organized, and meticulous employee. Works at a fast pace to meet tight deadlines.
+Enthusiastic team player ready to contribute to company success.
+Driven Software Developer with 9 years of experience in full lifecycle development. Motivated with keen
+analytical, problem-solving, and task-management abilities.
+
+- 🔭 I’m currently working on Laravel, Moodle & Wordpress,
+- 📫 How to reach me:
+  - Call me on my phone number which is +250781625173
+  - Or e-mail at peacerugero@gmail.com
 
 <!--
 **nrep/nrep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nrep&count_private=true) -->
-
-Detail-oriented, organized, and meticulous employee. Works at a fast pace to meet tight deadlines.
-Enthusiastic team player ready to contribute to company success.
-Driven Software Developer with 9 years of experience in full lifecycle development. Motivated with keen
-analytical, problem-solving, and task-management abilities.
 
 <!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=nrep)](https://git.io/streak-stats) -->
 
