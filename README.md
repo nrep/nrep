@@ -45,6 +45,11 @@ analytical, problem-solving, and task-management abilities.
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github" alt="github" width="40" height="40"/>&nbsp;&nbsp;
 </div>
 <br>
+
+[![wakatime](https://wakatime.com/badge/user/7dece33d-eb33-4ece-a505-c843982e4c99.svg)](https://wakatime.com/@7dece33d-eb33-4ece-a505-c843982e4c99)
+![Twitter Follow](https://img.shields.io/twitter/follow/ElvisPeaceNR)
+
+
 <br>
 
 - 🔭 I’m currently working on Laravel, Moodle & Wordpress,
