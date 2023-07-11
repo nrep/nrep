@@ -54,6 +54,15 @@ analytical, problem-solving, and task-management abilities.
 <a href="mailto:peacerugero@gmail.com">
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 </a>
+<a href="https://www.instagram.com/elvis_rugero/">
+![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+</a>
+<a href="https://www.sololearn.com/profile/597503">
+![Instagram](https://img.shields.io/badge/-Sololearn-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white)
+</a>
+<a href="https://www.sololearn.com/profile/597503">
+![Instagram](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+</a>
 
 
 <br>
