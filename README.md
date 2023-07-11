@@ -48,6 +48,12 @@ analytical, problem-solving, and task-management abilities.
 
 [![wakatime](https://wakatime.com/badge/user/7dece33d-eb33-4ece-a505-c843982e4c99.svg)](https://wakatime.com/@7dece33d-eb33-4ece-a505-c843982e4c99)
 ![Twitter Follow](https://img.shields.io/twitter/follow/ElvisPeaceNR)
+<a href="https://www.linkedin.com/in/elvis-peace-ndahayo-rugero-2a12a9139/">
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&url=https://www.linkedin.com/in/elvis-peace-ndahayo-rugero-2a12a9139?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B9zGhqpgXRjiVM8LkHTGiDA%3D%3D)
+</a>
+<a href="mailto:peacerugero@gmail.com">
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+</a>
 
 
 <br>
