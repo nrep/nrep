@@ -6,7 +6,8 @@ Driven Software Developer with 9 years of experience in full lifecycle developme
 analytical, problem-solving, and task-management abilities.
 <br>
 <br>
-
+## Programming languages, tools & frameworks
+<hr>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;&nbsp;
@@ -68,12 +69,12 @@ Here are some ideas to get you started:
 
 <!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=nrep)](https://git.io/streak-stats) -->
 
+<br>
 
 |My github statistics|My languages|Streaks|
 |-|-|-|
 |[![Peace's github stats](https://github-readme-stats.vercel.app/api?username=nrep&show_icons=true&theme=transparent&hide_title=true)](https://github.com/nrep)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nrep&show_icons=true&theme=transparent&layout=compact&hide_title=true)](https://github.com/nrep)|![Cyebukayire](https://github-readme-streak-stats.herokuapp.com/?user=nrep&theme=transparent)
-## Programming languages, tools & frameworks
-<hr>
+<br>
 <p align="center">
 <!--   <img width="100" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png" />   -->
   <h2 align="center">My Github Profile Trophy</h2>
