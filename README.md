@@ -7,8 +7,8 @@ analytical, problem-solving, and task-management abilities.
 
 - 🔭 I’m currently working on Laravel, Moodle & Wordpress,
 - 📫 How to reach me:
-  - Call me on my phone number which is +250781625173
-  - Or e-mail at peacerugero@gmail.com
+  1. Call me on my phone number which is +250781625173
+  2. Or e-mail at peacerugero@gmail.com
 
 <!--
 **nrep/nrep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
