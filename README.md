@@ -1,7 +1,7 @@
 ### Hi there 👋, call me Elvis Peace NDAHAYO RUGERO
 
 I am a detail-oriented, organized, and meticulous developer. Works at a fast pace to meet tight deadlines.
-Enthusiastic team player ready to contribute to company success.
+Enthusiastic team player ready to contribute to project success.
 Driven Software Developer with 9 years of experience in full lifecycle development. Motivated with keen
 analytical, problem-solving, and task-management abilities.
 <br>
