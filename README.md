@@ -2,10 +2,10 @@
 
 I am a detail-oriented, organized, and meticulous developer. Who works at a fast pace to meet tight deadlines. I'm also an enthusiastic team player who is always ready to contribute to project success.
 
-A **web**, **mobile**, and **desktop** applications **developer** with nine years of experience in full-lifecycle development and keen analytical, problem-solving, and task-management abilities.
+A **full-stack web**, **mobile**, and **desktop** applications **developer** with nine years of experience in full-lifecycle development and keen analytical, problem-solving, and task-management abilities.
 <br>
 <br>
-## Programming languages, tools & frameworks
+## Programming languages, tools, and frameworks
 <hr>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;&nbsp;
