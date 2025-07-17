@@ -1,4 +1,4 @@
-### Hi there, call me Elvis Peace NDAHAYO RUGERO
+### Hi there 🙋🏽‍♂️, this is Elvis Peace NDAHAYO RUGERO
 
 I’m a Senior Full-Stack Software Developer with over 10 years of experience designing, developing, and deploying robust digital solutions across web, mobile, and desktop platforms. My work spans healthcare, education, agriculture, and open-source AI/NLP tools, where I’ve built systems that serve thousands of users and streamline complex workflows.
 
