@@ -1,8 +1,17 @@
 ### Hi there, call me Elvis Peace NDAHAYO RUGERO
 
-I am a detail-oriented, organized, and meticulous developer. Who works at a fast pace to meet tight deadlines. I'm also an enthusiastic team player who is always ready to contribute to project success.
+I’m a Senior Full-Stack Software Developer with over 10 years of experience designing, developing, and deploying robust digital solutions across web, mobile, and desktop platforms. My work spans healthcare, education, agriculture, and open-source AI/NLP tools, where I’ve built systems that serve thousands of users and streamline complex workflows.
 
-A **full-stack web**, **mobile**, and **desktop** applications **developer** with nine years of experience in full-lifecycle development and keen analytical, problem-solving, and task-management abilities.
+I specialize in:
+	•⚙️ Full-Stack Development with React.js, Laravel, Tailwind CSS, FastAPI, PostgreSQL, Firebase, and more
+	•🌐 API Architecture and secure integration of multilingual systems and AI services (chatbots, translation APIs, NLP)
+	•🧠 AI & NLP Integration into real-world applications, including education platforms and patient management systems
+	•🗂️ Database Design & management for systems handling millions of records
+	•🖥️ System/Network Administration, including LAN/WAN setup, security, backups, and uptime monitoring
+
+In addition to technical development, I’ve led product ideation, UI/UX optimization, and end-to-end project deployment — from prototype to live system. I’m passionate about building Made-in-Africa digital tools that empower communities and promote local innovation.
+
+Let’s connect if you’re building something meaningful.
 <br>
 <br>
 ## Programming languages, tools, and frameworks
