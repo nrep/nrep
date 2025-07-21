@@ -138,5 +138,5 @@ Here are some ideas to get you started:
 <hr>
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center">![Visitor Count](https://countapi.xyz/hit/nrep/visits?style=flat-square&label=Visitors&color=0e75b6)</p> 
+<p align="center">[![Visitor Count](https://countapi.xyz/hit/nrep/visits?style=flat-square&label=Visitors&color=0e75b6)]</p> 
 <br></div>
