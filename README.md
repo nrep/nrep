@@ -100,7 +100,7 @@ Here are some ideas to get you started:
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=Cyebukayire&theme=radical&margin-w=40&margin-h=40)](https://github.com/Cyebukayire) -->
 
-[![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=nrep&column=8&margin-w=20&margin-h=0&no-bg=true&no-frame=true&theme=tokyonight)](https://github.com/nrep)
+[![trophy](https://github-trophies.vercel.app/?username=nrep&column=8&margin-w=20&margin-h=0&no-bg=true&no-frame=true&theme=tokyonight)](https://github.com/nrep)
 <hr>
 <div align="center">
 <br><p align="center"><b>Visitors Count</b></p>  
