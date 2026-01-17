@@ -93,7 +93,16 @@ Here are some ideas to get you started:
 |-|-|-|
 |[![Peace's github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=nrep&show_icons=true&theme=transparent&hide_title=true)](https://github.com/nrep)|[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nrep&show_icons=true&theme=transparent&layout=compact&hide_title=true)](https://github.com/nrep)|![Streaks](https://github-readme-streak-stats-eight.vercel.app/?user=nrep&theme=transparent)
 <br>
+<p align="center">
+<!--   <img width="100" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png" />   -->
+  <h2 align="center">My Github Profile Trophy</h2>
+</p>
+
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=Cyebukayire&theme=radical&margin-w=40&margin-h=40)](https://github.com/Cyebukayire) -->
+
+[![trophy](https://github-trophies.vercel.app/?username=nrep&column=8&margin-w=20&margin-h=0&no-bg=true&no-frame=true&theme=tokyonight)](https://github.com/nrep)
 <hr>
 <div align="center">
-<p align="center"><img src="https://komarev.com/ghpvc/?username=nrep&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/></p>
-</div>
+<br><p align="center"><b>Visitors Count</b></p>  
+<p align="center"><img src="https://visitor-badge.laobi.icu/badge?page_id=nrep.nrep" alt="visitors"/></p>
+<br></div>
